@@ -37,8 +37,8 @@ Sigue estos pasos para clonar y ejecutar el proyecto localmente:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/ebweb-lab/password-generator-eb.git
-   cd password-generator-eb
+   git clone https://github.com/ebweb-lab/Password-Generate-EB.git
+   cd Password-Generate-EB
    
 2. **Instala las dependencias**:
    ```bash
